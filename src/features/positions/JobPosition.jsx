@@ -1,9 +1,9 @@
 import React from 'react';
-import data from '../mock/data.json'
+import data from '../../mock/data.json'
 import PropTypes from "prop-types";
-import Stack from "../UI/Stack";
-import Badge from "../UI/Badge";
-import Card from "../UI/Card";
+import Stack from "../../UI/Stack";
+import Badge from "../../UI/Badge";
+import Card from "../../UI/Card";
 
 const JobPosition = ({
                          id,
